@@ -15,19 +15,17 @@ A modern Calculator App built with Flutter as part of the TechNova Internship Pr
 - 📝 Displays full expression (Example: 3 × 2 = 6)
 - 🎨 Clean and Responsive UI
 
+
 ## 📸 Screenshots
 
-### Light Mode
+### 🌞 Light Mode
+![Light Mode](screenshots/light_mode.png)
 
-(Add screenshot here)
+### 🌙 Dark Mode
+![Dark Mode](screenshots/dark_mode.png)
 
-### Dark Mode
-
-(Add screenshot here)
-
-### Example Calculation
-
-(Add screenshot here)
+### 🧮 Example Calculation
+![Calculation](screenshots/calculation.png)
 
 ## 🛠️ Tech Stack
 
