@@ -1,17 +1,91 @@
-# technova_calculator
+# 🧮 TechNova Calculator App
 
-A new Flutter project.
+A modern Calculator App built with Flutter as part of the TechNova Internship Program.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- ➕ Addition
+- ➖ Subtraction
+- ✖ Multiplication
+- ➗ Division
+- 📊 Percentage
+- 🔄 Positive / Negative (+/-)
+- ⌫ Backspace
+- 🌓 Dark & Light Mode
+- 📝 Displays full expression (Example: 3 × 2 = 6)
+- 🎨 Clean and Responsive UI
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Light Mode
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+(Add screenshot here)
+
+### Dark Mode
+
+(Add screenshot here)
+
+### Example Calculation
+
+(Add screenshot here)
+
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Material Design
+
+## 📂 Project Structure
+
+```
+lib/
+ ├── main.dart
+
+android/
+ios/
+web/
+windows/
+linux/
+macos/
+```
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/arpita201/TechNova_CalculatorApp.git
+```
+
+### Open the project
+
+```bash
+cd TechNova_CalculatorApp
+```
+
+### Install dependencies
+
+```bash
+flutter pub get
+```
+
+### Run the application
+
+```bash
+flutter run
+```
+
+## 📖 Project Overview
+
+This calculator application was developed using Flutter. It supports basic arithmetic operations, percentage calculation, expression history display, and theme switching between Light and Dark mode.
+
+## 👩‍💻 Developer
+
+**Arpita Saha**
+
+
+
+GitHub:
+https://github.com/arpita201
+
+---
